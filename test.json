@@ -1,0 +1,85 @@
+{
+    "departament": "links",
+    "employees": [
+        {"icon": ":/icons/send", "name": "&WebSite", "link" : "https://bit.diamonds/"},
+        {"icon": ":/icons/facebook", "name": "&Facebook", "link" : "https://www.facebook.com/dmdcoin/"},
+        {"icon": ":/icons/twitter", "name": "&Twitter", "link" : "https://twitter.com/dmdcoin"},
+        {"icon": ":/icons/reddit", "name": "&Reddit", "link" : "https://www.reddit.com/r/dmd"},
+        {"icon": ":/icons/discord", "name": "&Discord", "link" : "https://discord.gg/bqM78c9"},
+        {"icon": ":/icons/remove", "name": "&Slack invite", "link" : "https://bit.diamonds/contact.php"},
+        {"icon": ":/icons/slack", "name": "&Slack", "link" : "https://dmdcoin.slack.com/"},
+        {"icon": ":/icons/bitcointalk", "name": "&Bitcointalk", "link" : "https://bitcointalk.org/index.php?topic=580725.0"},
+        {"icon": ":/icons/gitHub", "name": "&Github", "link" : "https://github.com/DMDcoin/Diamond"},
+        {"icon": ":/icons/bittrex", "name": "&Bittrex", "link" : "https://bittrex.com/Market/Index?MarketName=BTC-DMD"},
+        {"icon": ":/icons/se", "name": "&Спорт-экспресс", "link" : "https://www.sport-express.ru"}
+    ],
+    "number": 11,
+
+    "sections": [ {"name_section": "Section 1",
+                   "sectors": [ {"name_sector": "Website:",
+                                 "links": [ {"icon": ":/icons/send", "name": "&WebSite", "link" : "https://bit.diamonds/"},
+                                            {"icon": ":/icons/facebook", "name": "&Facebook", "link" : "https://www.facebook.com/dmdcoin/"},
+                                            {"icon": ":/icons/twitter", "name": "&Twitter", "link" : "https://twitter.com/dmdcoin"}
+                                          ]
+                                },
+                                {"name_sector": "Blockchain:",
+                                 "links": [ {"icon": ":/icons/reddit", "name": "&Reddit", "link" : "https://www.reddit.com/r/dmd"},
+                                            {"icon": ":/icons/discord", "name": "&Discord", "link" : "https://discord.gg/bqM78c9"},
+                                            {"icon": ":/icons/remove", "name": "&Slack invite", "link" : "https://bit.diamonds/contact.php"},
+                                            {"icon": ":/icons/slack", "name": "&Slack", "link" : "https://dmdcoin.slack.com/"}
+                                          ]
+                                },
+                                {"name_sector": "Exchanges:",
+                                 "links": [ {"icon": ":/icons/bitcointalk", "name": "&Bitcointalk", "link" : "https://bitcointalk.org/index.php?topic=580725.0"},
+                                            {"icon": ":/icons/gitHub", "name": "&Github", "link" : "https://github.com/DMDcoin/Diamond"},
+                                            {"icon": ":/icons/bittrex", "name": "&Bittrex", "link" : "https://bittrex.com/Market/Index?MarketName=BTC-DMD"}
+                                          ]
+                                },
+                                {"name_sector": "Masternode services:",
+                                 "links": [ {"icon": ":/icons/se", "name": "&Спорт-экспресс", "link" : "https://www.sport-express.ru"},
+                                            {"icon": ":/icons/send", "name": "&WebSite", "link" : "https://bit.diamonds/"},
+                                            {"icon": ":/icons/facebook", "name": "&Facebook", "link" : "https://www.facebook.com/dmdcoin/"}
+                                          ]
+                                }
+                              ]
+                  },
+                  {"name_section": "Section 2",
+                   "sectors": [ {"name_sector": "We in media:",
+                                 "links": [ {"icon": ":/icons/twitter", "name": "&Twitter", "link" : "https://twitter.com/dmdcoin"},
+                                            {"icon": ":/icons/reddit", "name": "&Reddit", "link" : "https://www.reddit.com/r/dmd"}
+                                          ]
+                                }
+                              ]
+                  },
+                  {"name_section": "Section 3",
+                   "sectors": [ {"name_sector": "Social:",
+                                 "links": [ {"icon": ":/icons/discord", "name": "&Discord", "link" : "https://discord.gg/bqM78c9"},
+                                            {"icon": ":/icons/remove", "name": "&Slack invite", "link" : "https://bit.diamonds/contact.php"},
+                                            {"icon": ":/icons/slack", "name": "&Slack", "link" : "https://dmdcoin.slack.com/"},
+                                            {"icon": ":/icons/bitcointalk", "name": "&Bitcointalk", "link" : "https://bitcointalk.org/index.php?topic=580725.0"}
+                                          ]
+                                },
+                                {"name_sector": "Бла Бла Бла",
+                                 "links": [ {"icon": ":/icons/gitHub", "name": "&Github", "link" : "https://github.com/DMDcoin/Diamond"}
+                                          ]
+                                },
+                                {"name_sector": "Бла Бла Бла",
+                                 "links": [ {"icon": ":/icons/bittrex", "name": "&Bittrex", "link" : "https://bittrex.com/Market/Index?MarketName=BTC-DMD"},
+                                            {"icon": ":/icons/se", "name": "&Спорт-экспресс", "link" : "https://www.sport-express.ru"},
+                                            {"icon": ":/icons/send", "name": "&WebSite", "link" : "https://bit.diamonds/"},
+                                            {"icon": ":/icons/facebook", "name": "&Facebook", "link" : "https://www.facebook.com/dmdcoin/"}
+                                          ]
+                                },
+                              ]
+                  },
+                  {"name_section": "Section 4",
+                   "sectors": [ {"name_sector": "Walles:",
+                                 "links": [ {"icon": ":/icons/twitter", "name": "&Twitter", "link" : "https://twitter.com/dmdcoin"},
+                                            {"icon": ":/icons/reddit", "name": "&Reddit", "link" : "https://www.reddit.com/r/dmd"}
+                                          ]
+                                },
+                              ]
+                  }
+                ],
+    "number_section": 4
+}
